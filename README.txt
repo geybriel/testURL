@@ -1,3 +1,14 @@
 *.facebook.com
 *.bintray.com
 yahoo.com
+bintray.com
+*.yahoo.com
+yahoo.com/
+*.yahoo.com/
+*.facebook.com/
+facebook.com
+facebook.com/
+google.com/
+google.com
+*.google.com
+*.google.com/
